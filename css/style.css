@@ -56,9 +56,25 @@ h1 {
 #big-quadro{
     height: 520px;
     width: 1000px;
-    background-color: black;
+    background-color: white;
     margin: auto;
     margin-top: 2px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+
+section {
+    margin-left: 60px;
+    padding-top: 30px;
+}
+
+.circular {
+    display: inline-block;
+    border: 1px solid green;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    text-align: center;
+    color: green;
 }
