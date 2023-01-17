@@ -23,3 +23,14 @@ h1 {
     display: inline-block;
     vertical-align: middle;
 }
+
+#white-rectangle {
+    height: 60px;
+    width: 1000px;
+    background-color: black;
+    margin: auto;
+    margin-top: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
