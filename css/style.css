@@ -94,8 +94,32 @@ section {
     margin-left: 5px;
     margin-top: 10px;
     border-radius: 10px;
-    font-weight: bold;
     background-color: #47ADF1;
     color: white;
     border: 1px solid  #47ADF1;
+}
+
+#bgoal {
+    background-color: #9C72E4;
+    border: 1px solid #9C72E4;
+}
+
+#brecruiting {
+    background-color: #65C1AA;
+    border: 1px solid #65C1AA;
+}
+
+#bmobile{
+    background-color: #F29E33;
+    border: 1px solid #F29E33;
+}
+
+#bwebsite {
+    background-color: #D863A1;
+    border: 1px solid #D863A1;
+}
+
+#bsales {
+    background-color: #B0C926;
+    border: 1px solid #B0C926;
 }
