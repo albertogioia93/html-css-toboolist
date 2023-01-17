@@ -27,12 +27,31 @@ h1 {
 #white-rectangle {
     height: 60px;
     width: 1000px;
-    background-color: black;
+    background-color: white;
     margin: auto;
     margin-top: 40px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
+
+.button {
+    padding: 5px 10px;
+    margin-left: 60px;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #47ADF1;
+    color: white;
+    border: 1px solid  #47ADF1;
+}
+
+#button-2{
+    margin-left: 2px;
+    color: #C8CED3;
+    background-color: white;
+    border: 2px solid #C8CED3;
+}
+
 
 #big-quadro{
     height: 520px;
