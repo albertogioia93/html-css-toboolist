@@ -88,3 +88,14 @@ section {
     text-align: center;
     color: red;
 }
+
+.button-3 {
+    padding: 3px 10px;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: #47ADF1;
+    color: white;
+    border: 1px solid  #47ADF1;
+}
