@@ -78,3 +78,13 @@ section {
     text-align: center;
     color: green;
 }
+
+.circular2 {
+    display: inline-block;
+    border: 1px solid red;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    text-align: center;
+    color: red;
+}
